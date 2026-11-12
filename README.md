@@ -1,2 +1,0 @@
-# fims-bot
-FIMS
